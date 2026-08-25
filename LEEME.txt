@@ -1,0 +1,14 @@
+PISTACHO Y AZAFRÁN — WEB ESTÁTICA
+
+Contenido:
+- index.html: página principal con metadatos SEO, Open Graph y datos estructurados.
+- assets/images: fotografías y logotipo.
+- assets/_next: estilos y JavaScript necesarios para menú, idioma y carta interactiva.
+- _next: copia técnica de compatibilidad para el arranque de JavaScript.
+- robots.txt y sitemap.xml: archivos SEO para la publicación en el dominio actual.
+
+Publicación:
+Sube todo el contenido de esta carpeta conservando exactamente la estructura. Debe servirse mediante HTTP/HTTPS; no se recomienda abrir index.html directamente con file:// porque los navegadores restringen los módulos JavaScript locales.
+
+La URL canónica y la imagen social apuntan a:
+https://pistacho-y-azafran-malaga.ijustdaniii.chatgpt.site/

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pistacho-y-azafran-malaga.ijustdaniii.chatgpt.site/sitemap.xml
